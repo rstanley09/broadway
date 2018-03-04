@@ -1,7 +1,58 @@
+html {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+/* Landing Section */
+
 #header {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
   background-image: url("resources/images/theflatironbuilding.png");
 }
 
-html {
-  font-family: Helvetica;
+.headlinks {
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Process Section & Designed in NY Section */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+h4 {
+  font-size: 23px;
+  color: white;
+  background-image: url("resources/images/theflatironbuilding.png");
+
+}
+
+/* Footer Section */
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+/* footlinks */
+.footlinks {
+  color: white;
 }
